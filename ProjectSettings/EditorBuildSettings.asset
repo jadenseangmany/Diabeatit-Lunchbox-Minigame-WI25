@@ -14,24 +14,24 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/UnusedScenes/startScene.unity
     guid: 323fde44e5b8447eead35241b97e6b2e
-  - enabled: 1
-    path: Assets/Scenes/finishScene.unity
+  - enabled: 0
+    path: Assets/Scenes/zfinishScene.unity
     guid: c20d2fff6b10b411997f86d20ebd5472
   - enabled: 1
     path: Assets/Scenes/pickBox.unity
-    guid: e4cf976f503824448a768aac59aecdb4
+    guid: cabf0c78a10aaa3478f36606dbf463f8
   - enabled: 1
     path: Assets/Scenes/SelectionMenu.unity
     guid: e115f0be113c04eb7ac576196e7fe2f9
   - enabled: 0
     path: Assets/Scenes/UnusedScenes/lunchBoxScene.unity
     guid: 8a8ccf81069ec47de9a58c96cdced3ec
-  - enabled: 1
-    path: Assets/Scenes/finishScene.unity
+  - enabled: 0
+    path: Assets/Scenes/zfinishScene.unity
     guid: c20d2fff6b10b411997f86d20ebd5472
   - enabled: 1
     path: Assets/Scenes/pickBox.unity
-    guid: e4cf976f503824448a768aac59aecdb4
+    guid: cabf0c78a10aaa3478f36606dbf463f8
   - enabled: 1
     path: Assets/Scenes/Tutorial1.unity
     guid: 1faec4b1d9ed74ca999d8507daa94a19
@@ -48,9 +48,39 @@ EditorBuildSettings:
     path: Assets/Scenes/Tutorial5.unity
     guid: 9c0d6db4b5f034df6b79c2c7b7a1bd9f
   - enabled: 1
+    path: Assets/Scenes/BoxBlue.unity
+    guid: 3f9385406be7ce948b42e1c4a79778a4
+  - enabled: 1
+    path: Assets/Scenes/BoxPink.unity
+    guid: 0bfeb057f5863d14c9540d6982d0ed50
+  - enabled: 1
+    path: Assets/Scenes/BoxPurple.unity
+    guid: 4bb1b2057e5ff3c40b73ad6106398656
+  - enabled: 1
+    path: Assets/Scenes/BoxRed.unity
+    guid: 96f9685edc2a7cd4da1efeff881eb5a9
+  - enabled: 1
+    path: Assets/Scenes/BoxYellow.unity
+    guid: 8c9a5c7a06f92114e90b29ec76fb4aaf
+  - enabled: 1
+    path: Assets/Scenes/FinishBlue.unity
+    guid: dbc979dbf87baa84895f545227a60edb
+  - enabled: 1
+    path: Assets/Scenes/FinishPink.unity
+    guid: c5fcb459f77f2cf4aa1a2b998da7b1be
+  - enabled: 1
+    path: Assets/Scenes/FinishPurple.unity
+    guid: d6f0448c0a4750d4c9f36331429acd97
+  - enabled: 1
+    path: Assets/Scenes/FinishRed.unity
+    guid: b88f61eb98cd4a843a225f75e00e269e
+  - enabled: 1
+    path: Assets/Scenes/FinishYellow.unity
+    guid: a56c1af75855e904ab442bc9e40b92c0
+  - enabled: 1
     path: Assets/Scenes/Tutorial6.unity
     guid: 7f0e4dd4fcb644fdb9e5261717e0e518
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SelectionMenu.unity
     guid: e115f0be113c04eb7ac576196e7fe2f9
   m_configObjects: {}
